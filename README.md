@@ -1,6 +1,7 @@
 El proyecto se corre a través de este comando:
 "./mvnw spring-boot:run”
 
+Captura de funcionamiento en Postman
 ![GET product](images/get-product.png)
 ![POST product](images/post_product.png)
 
